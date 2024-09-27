@@ -1,0 +1,14 @@
+C:\Users\serap\source\repos\Odev2.6OgrenciOgretmenKayitSistemi\Odev2.6OgrenciOgretmenKayitSistemi\obj\Debug\Odev2.6OgrenciOgretmenKayitSistemi.csproj.AssemblyReference.cache
+C:\Users\serap\source\repos\Odev2.6OgrenciOgretmenKayitSistemi\Odev2.6OgrenciOgretmenKayitSistemi\obj\Debug\Odev2._6OgrenciOgretmenKayitSistemi.AnaForm.resources
+C:\Users\serap\source\repos\Odev2.6OgrenciOgretmenKayitSistemi\Odev2.6OgrenciOgretmenKayitSistemi\obj\Debug\Odev2._6OgrenciOgretmenKayitSistemi.KullaniciGiris.resources
+C:\Users\serap\source\repos\Odev2.6OgrenciOgretmenKayitSistemi\Odev2.6OgrenciOgretmenKayitSistemi\obj\Debug\Odev2._6OgrenciOgretmenKayitSistemi.Properties.Resources.resources
+C:\Users\serap\source\repos\Odev2.6OgrenciOgretmenKayitSistemi\Odev2.6OgrenciOgretmenKayitSistemi\obj\Debug\Odev2.6OgrenciOgretmenKayitSistemi.csproj.GenerateResource.cache
+C:\Users\serap\source\repos\Odev2.6OgrenciOgretmenKayitSistemi\Odev2.6OgrenciOgretmenKayitSistemi\obj\Debug\Odev2.6OgrenciOgretmenKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\serap\source\repos\Odev2.6OgrenciOgretmenKayitSistemi\Odev2.6OgrenciOgretmenKayitSistemi\bin\Debug\Odev2.6OgrenciOgretmenKayitSistemi.exe.config
+C:\Users\serap\source\repos\Odev2.6OgrenciOgretmenKayitSistemi\Odev2.6OgrenciOgretmenKayitSistemi\bin\Debug\Odev2.6OgrenciOgretmenKayitSistemi.exe
+C:\Users\serap\source\repos\Odev2.6OgrenciOgretmenKayitSistemi\Odev2.6OgrenciOgretmenKayitSistemi\bin\Debug\Odev2.6OgrenciOgretmenKayitSistemi.pdb
+C:\Users\serap\source\repos\Odev2.6OgrenciOgretmenKayitSistemi\Odev2.6OgrenciOgretmenKayitSistemi\obj\Debug\Odev2.6OgrenciOgretmenKayitSistemi.exe
+C:\Users\serap\source\repos\Odev2.6OgrenciOgretmenKayitSistemi\Odev2.6OgrenciOgretmenKayitSistemi\obj\Debug\Odev2.6OgrenciOgretmenKayitSistemi.pdb
+C:\Users\serap\source\repos\Odev2.6OgrenciOgretmenKayitSistemi\Odev2.6OgrenciOgretmenKayitSistemi\obj\Debug\Odev2._6OgrenciOgretmenKayitSistemi.OgretmenKayit.resources
+C:\Users\serap\source\repos\Odev2.6OgrenciOgretmenKayitSistemi\Odev2.6OgrenciOgretmenKayitSistemi\obj\Debug\Odev2._6OgrenciOgretmenKayitSistemi.OgrenciKayit.resources
+C:\Users\serap\source\repos\Odev2.6OgrenciOgretmenKayitSistemi\Odev2.6OgrenciOgretmenKayitSistemi\obj\Debug\Odev2._6OgrenciOgretmenKayitSistemi.OgrenciOgretmen.resources
